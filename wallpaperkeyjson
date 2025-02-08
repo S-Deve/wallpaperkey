@@ -1,8 +1,8 @@
 {
   "categories": [
     {
+		"id": "ramadan",
       "name": "رمضان",
-	  "key": "ramadan",
       "photos": [
 "https://i.imgur.com/L4SGyLJ.jpeg",
 "https://i.imgur.com/2Ivg5ct.jpeg",
@@ -49,8 +49,8 @@
       ]
     },
     {
+		"id": "eid",
       "name": "عيد الفطر",
-	  "key": "laylatalkadr",
       "photos": [
 "https://i.imgur.com/TfRC6sK.jpeg",
 "https://i.imgur.com/H78KuF8.jpeg",
@@ -72,8 +72,8 @@
       ]
     },
     {
+		"id": "laylatqadr",
       "name": "ليلة القدر",
-	  "key": "eid",
       "photos": [
 "https://i.imgur.com/xddZ9Fp.jpeg",
 "https://i.imgur.com/rNyCVsM.jpeg",
